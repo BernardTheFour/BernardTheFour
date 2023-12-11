@@ -3,15 +3,6 @@
 
 <p align="left"> <a href="https://github.com/BernardTheFour/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bernardthefour" alt="bernardthefour" /></a> </p>
 
-
-- 🔭 I’m currently working on **Mitrais Project**
-
-- 🌱 I’m currently learning **NextJS, NestJS**
-
-- 💬 Ask me about **Terraform**
-
-- 📫 How to reach me **bernardctxy1@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bernard-4a3808152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernard-4a3808152" height="30" width="40" /></a>
